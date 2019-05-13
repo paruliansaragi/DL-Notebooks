@@ -1,2 +1,3 @@
 # DL-Notebooks
-Deep Learning projects repo
+
+Series of training, project and kaggle notebooks.
